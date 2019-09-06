@@ -1,3 +1,4 @@
-# Hot Dog! It's A Website.
+# Todd Barchok's Hot Dog Website
 
-__Task:__ Turn this basic mockup into a web page. This is your shot to show us what you've got while making a site loosely based on Columbus' best hot dogs. 
+A conversion from the provided image and photoshop files. Unfortunately, does not have the exact correct fonts, as I don't have photoshop on my computer. It also doesn't fully support very small/mobile screen sizes, though adding that support shouldn't be too difficult. Example uploaded to <http://barchok.com/p/hotdog/> for an instant live example.
+
